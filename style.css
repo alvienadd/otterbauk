@@ -480,7 +480,7 @@ h1 {
   padding: 20px;
   border: 1px solid #888;
   width: 80%;
-  height: 2600px;
+  height: 800px;
 }
 
 /* The Close Button */
@@ -624,7 +624,7 @@ text {
   position: absolute;
   padding: 0;
   margin: 0;
-  top: 50%;
+  top: 120%;
   -webkit-transform: translate(0, -50%);
   transform: translate(0, -50%);
 }
